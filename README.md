@@ -11,4 +11,4 @@ The security aspects of the project has been kept in mind while maki
 >I hope it meets CS50's requirements.
 
 Regards,
-Rishit Shivesh
+Ananya Tripathy
